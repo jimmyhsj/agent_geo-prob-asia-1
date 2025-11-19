@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Japan Legislation for Peace and Security",
+    "url": "https://www.mofa.go.jp/files/000143304.pdf",
+    "category": "安保/法制",
+    "notes": "Cabinet/CLB explanations of collective self-defence and 'existential crisis' wording.",
+    "tags": ["institution"]
+  },
+  {
+    "name": "National Security Strategy (2022)",
+    "url": "https://www.cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf",
+    "category": "安保/法制",
+    "notes": "Baseline for counter-strike capability language and institutional reforms.",
+    "tags": ["institution", "ach"]
+  },
+  {
+    "name": "NSC / NSS overview",
+    "url": "https://www.mofa.go.jp/fp/nsp/page1we_000080.html",
+    "category": "安保/法制",
+    "notes": "Organisation, permissions, and process of the National Security Council.",
+    "tags": ["institution", "alliance"]
+  },
+  {
+    "name": "Trilateral Summit / Joint Statements",
+    "url": "https://www.mofa.go.jp/fp/nsp/page1we_000081.html",
+    "category": "同盟",
+    "notes": "Detect bundling of Russia Far East / DPRK issues into trilateral commitments.",
+    "tags": ["alliance", "entrapment", "flash_brief"]
+  },
+  {
+    "name": "MOD Defense Policy Portal",
+    "url": "https://www.mod.go.jp/en/d_policy/index.html",
+    "category": "能力",
+    "notes": "Milestone updates for counter-strike delivery, joint HQ, BMD, and Aegis procurement.",
+    "tags": ["capability", "alliance", "entrapment"]
+  },
+  {
+    "name": "MOD White Paper 2024 (Reference)",
+    "url": "https://www.mod.go.jp/en/publ/w_paper/wp2024/DOJ2024_EN_Reference.pdf",
+    "category": "能力",
+    "notes": "Supporting charts and org structures cited in NSS/three documents.",
+    "tags": ["capability", "ach"]
+  },
+  {
+    "name": "MOD Press Releases",
+    "url": "https://www.mod.go.jp/en/press/",
+    "category": "能力",
+    "notes": "Daily updates on procurement milestones, exercises, and deployments.",
+    "tags": ["capability", "brier"]
+  },
+  {
+    "name": "JPX Market Structure Follow-up",
+    "url": "https://www.jpx.co.jp/english/equities/follow-up/02.html",
+    "category": "资本/治理",
+    "notes": "KPIs for PBR<1 disclosures, English reporting, sample templates.",
+    "tags": ["capital", "ach", "brier"]
+  },
+  {
+    "name": "JPX Improvement Hub",
+    "url": "https://www.jpx.co.jp/english/equities/improvement/",
+    "category": "资本/治理",
+    "notes": "Policy guidance and FAQs for governance reforms.",
+    "tags": ["capital"]
+  },
+  {
+    "name": "FSA / JPX briefing on initiatives",
+    "url": "https://www.fsa.go.jp/en/refer/councils/follow-up/material/20240418-04.pdf",
+    "category": "资本/治理",
+    "notes": "Regulatory stance toward low capital efficiency and national project conflicts.",
+    "tags": ["capital"]
+  },
+  {
+    "name": "Reuters coverage: JPX English disclosures",
+    "url": "https://www.reuters.com/markets/asia/tokyo-bourse-require-japanese-english-disclosures-top-firms-2024-02-26/",
+    "category": "资本/治理",
+    "notes": "External accountability on JPX enforcement cadence.",
+    "tags": ["capital", "public_opinion"]
+  },
+  {
+    "name": "Reuters coverage: US command upgrade",
+    "url": "https://www.reuters.com/world/us/pentagon-chief-hegseth-says-warrior-japan-indispensable-deter-china-2025-03-30/",
+    "category": "同盟",
+    "notes": "Example of allied command-relationship coverage and sourcing.",
+    "tags": ["alliance", "entrapment", "flash_brief"]
+  },
+  {
+    "name": "GPIF corporate information",
+    "url": "https://www.gpif.go.jp/en/about/",
+    "category": "资金侧",
+    "notes": "Mandate, fiduciary principles, and appetite for policy-driven allocation.",
+    "tags": ["funds", "ach"]
+  },
+  {
+    "name": "GPIF Investment Principles 2025",
+    "url": "https://www.gpif.go.jp/en/about/15324685gpif/Investment_Principles_2025%20.pdf",
+    "category": "资金侧",
+    "notes": "Latest articulation of fiduciary duty and policy neutrality.",
+    "tags": ["funds", "entrapment", "brier"]
+  },
+  {
+    "name": "GPIF Stewardship Report 2024-2025",
+    "url": "https://www.gpif.go.jp/en/investment/Stewardship_Activities_Report_2024-2025.pdf",
+    "category": "资金侧",
+    "notes": "Evidence of stewardship cadence, ESG priorities, and policy pressure.",
+    "tags": ["funds"]
+  },
+  {
+    "name": "NHK polling hub",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/tags/30/",
+    "category": "舆情",
+    "notes": "Recent nationwide polling on politics, security, and economy.",
+    "tags": ["public_opinion"]
+  },
+  {
+    "name": "Kyodo News English",
+    "url": "https://english.kyodonews.net/",
+    "category": "舆情",
+    "notes": "Polling summaries and political coverage.",
+    "tags": ["public_opinion"]
+  },
+  {
+    "name": "Nikkei politics section",
+    "url": "https://asia.nikkei.com/Politics",
+    "category": "舆情",
+    "notes": "Context on Diet priorities, budgets, and alliance debates.",
+    "tags": ["public_opinion", "ach"]
+  }
+]

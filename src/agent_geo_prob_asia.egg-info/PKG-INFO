@@ -1,3 +1,15 @@
+Metadata-Version: 2.4
+Name: agent-geo-prob-asia
+Version: 0.1.0
+Summary: Analytic agent scaffolding for Japan entrapment-risk monitoring
+Author: GeoProb Agent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.7
+Requires-Dist: duckduckgo-search>=7.1
+Requires-Dist: httpx>=0.27
+Requires-Dist: rich>=13.7
+
 ---
 
 # 一、Agent 目标与产物（Outputs）
